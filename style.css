@@ -1,0 +1,154 @@
+body{
+    background-color: rgb(168, 166, 166);
+    padding: 30px;
+    margin: 0px;
+    
+    
+}
+
+
+.Page{
+    width: 600px;
+    border-radius: 20px;
+    margin: auto;
+    font-size: 14px;
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    background-color: white;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+}
+
+.Photo{
+    border-radius: 150px;
+    border: 3px solid rgb(202, 200, 200);
+    margin-top: 10px;
+    margin-left: 10;
+}
+
+h1 {
+    color: rgb(209, 25, 25);
+    font-weight: bold;
+   
+}
+
+
+.Para{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.Button{ 
+    font-weight: 700;
+    text-align: center;
+    padding-top: 10px;
+    
+    
+
+}
+
+#Button{
+    background: #df3232 ;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.Lien{
+  
+    width: 600px;
+    border-radius: 20px;
+    margin: auto;
+    font-size: 14px;
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    background-color: white;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    
+}
+
+.Logo{
+    height: 90px;
+    vertical-align: top;
+    margin-top: -2px;
+    margin-right: 5px;
+}
+
+.Lin{
+    height: 90px;
+    vertical-align: middle;
+    margin-bottom: 18px;
+    
+}
+
+.Twitter{
+    height: 90px;
+    
+    vertical-align: -50px;
+    margin-bottom: 18px;
+    
+}
+
+.Movies {
+    text-align: center;
+    color: rgb(75, 74, 74);
+}
+
+span{
+    background: #a7a5a5;
+}
+
+.Film{
+    width: 600px;
+    border-radius: 20px;
+    margin: auto;
+    font-size: 14px;
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    background-color: white;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    
+}
+
+.Images {
+    margin-right: 500px;
+    
+    
+}
+
+.Space{
+    
+    float: right;
+    margin-top: -250px;
+    color: gray;
+}
+
+.Tati {
+
+    float: right;
+    margin-top: -250px;
+    color: gray;
+    margin-left: 90px;
+    text-align: center;
+    margin-right: -50px;
+
+}
+
+.Alien {
+    float: right;
+    margin-top: -280px;
+    color: gray;
+    margin-left: 90px;
+    margin-right: -40px;
+    
+
+}
